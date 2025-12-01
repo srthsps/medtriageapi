@@ -1,0 +1,6 @@
+@MedTriage.API_HostAddress = http://localhost:5239
+
+GET {{MedTriage.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
