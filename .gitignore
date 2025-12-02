@@ -1,0 +1,12 @@
+# Ignore Build Output
+[Bb]in/
+[Oo]bj/
+publish/
+
+# Ignore User Settings
+.vscode/
+*.user
+
+# Ignore System Files
+.DS_Store
+Thumbs.db

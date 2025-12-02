@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedTriage.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc401400931e6002703b53e7ce166f58c5a5f05d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedTriage.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedTriage.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

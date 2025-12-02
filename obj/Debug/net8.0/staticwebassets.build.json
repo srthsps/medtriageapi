@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "e4LCq3gwnSN/nqmlh9IJHAz/8R/tAfpSG7efUMu1WyM=",
-  "Source": "MedTriage.API",
-  "BasePath": "_content/MedTriage.API",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"xcVwrCrSy9MpjnfHqmnLK8HNdEWoxk7cimjj73JlrUQ=","Source":"MedTriage.API","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
